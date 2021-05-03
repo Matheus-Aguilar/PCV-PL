@@ -8,7 +8,7 @@
 
 * Natan Garcias https://github.com/NatanGarcias 
 Universidade Federal de Vicosa, 2019
-* Matheus Aguilar 
+* Matheus Aguilar https://github.com/Matheus-Aguilar
 Universidade Federal de Vicosa, 2019
 
 ## Full report link for more details
